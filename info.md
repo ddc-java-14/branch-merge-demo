@@ -7,3 +7,5 @@ No multi-person project can do without task and issue branches. The only possibl
 ## Creating Branches
 
 Branch management begins with creating an appropriately named branch. Note that that branch will be checked out: always note that you are working in the correct branch afterwards.
+
+See ["Merging"](merging.md) for best practices on merging branches.
