@@ -1,1 +1,1 @@
-# branching-merge-demo
+# Branch & Merge Demo
